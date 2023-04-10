@@ -12,3 +12,4 @@ function sumarInputValues(event) {
     event.preventDefault();
     const sumaInputs = input1.value + input2.value;
     Presult.innerText = "Resultado: " + sumaInputs;}
+    >
